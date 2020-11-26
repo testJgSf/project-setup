@@ -21,3 +21,4 @@ git clone -b develop https://github.com/testJgSf/division-service.git
 cd division-service
 docker build -t joseg/division-service-1.0.0 .
 cd ../..
+docker-compose up -d

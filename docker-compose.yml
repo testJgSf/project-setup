@@ -20,3 +20,6 @@ services:
         image: joseg/division-service-1.0.0
         ports:
          - "3004:3004"
+
+
+
